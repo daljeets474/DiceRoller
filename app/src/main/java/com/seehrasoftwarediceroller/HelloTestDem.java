@@ -1,4 +1,4 @@
 package com.seehrasoftwarediceroller;
 
-public class HelloTestDemo{
+public class HelloTestDem{
 }
